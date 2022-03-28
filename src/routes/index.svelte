@@ -7,7 +7,10 @@
 	<title>Odd Lots</title>
 </svelte:head>
 
-<Header />
+<section>
+	<Header />
+</section>
 <section class="-mt-16 z-10">
 	<Testimonials />
 </section>
+<section class="mt-16" />
