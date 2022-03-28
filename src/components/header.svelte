@@ -8,7 +8,7 @@
 		<div class="max-w-xl">
 			<h1 class="mb-5 text-7xl font-semibold">Odd Lots</h1>
 			<p class="mb-10 text-4xl font-thin">
-				Two normies talk to the world's best experts to explain the weirdness effecting the global
+				Two normies talk to the world's best experts to explain the weirdness affecting the global
 				economy.
 			</p>
 			<a href="https://podcasts.apple.com/us/podcast/odd-lots/id1056200096" class="btn btn-primary"
