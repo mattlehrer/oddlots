@@ -1,2 +1,13 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+	import Header from '../components/header.svelte';
+	import Testimonials from '../components/testimonials.svelte';
+</script>
+
+<svelte:head>
+	<title>Odd Lots</title>
+</svelte:head>
+
+<Header />
+<section class="-mt-16 z-10">
+	<Testimonials />
+</section>
